@@ -24,5 +24,3 @@
 4-I have finished the task with bonus points except this two point : 
    - Adding your Testing code.
    - Deploy it to Heroku so that we can test the solution online.
- 
-# Fustany-Task
