@@ -1,0 +1,11 @@
+<div class="col-lg-6 col-lg-offset-3">
+    <h1> <center> Create Product </center> </h1>
+
+    <%= form_for(@product , :url => products_path() , :method => "post") do |f| %>
+      
+      <%= render(:partial => "form" , :locals => {:f => f }) %>
+      <div class="form-group">
+        <%= f.submit("Create", :class => "btn btn-primary form-control") %>
+      </div>
+    <% end %>
+</div>    
