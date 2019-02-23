@@ -1,4 +1,4 @@
-# Fustany Task
+# Fustany
 1-This is a simple application through it you can create your account and login to :
    - create products and browse the home page to see other products.
    - you can add/remove products to/from your favorite list.
@@ -20,7 +20,3 @@
   - add new category : http://localhost:3000/api/v1/categories
   - add new product  : http://localhost:3000/api/v1/products
   - add product to favorite list : http://localhost:3000/api/v1/products/favorite
-  
-4-I have finished the task with bonus points except this two point : 
-   - Adding your Testing code.
-   - Deploy it to Heroku so that we can test the solution online.
